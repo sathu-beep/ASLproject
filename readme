@@ -1,3 +1,3 @@
 download.py was used to download ASL videos from youtube to be used as the training/validation data
-generate_video_result.py was used to display a live video on my computer with text overlay of what the ASL sign I was doing viewed through the camera
+generate_video_result.py was used to display an application with a live video with text overlay of what the ASL sign I was doing viewed through the camera
 model.py, train.py, resnet.py, and validation.py are files related to the model and the training/validation of the model
